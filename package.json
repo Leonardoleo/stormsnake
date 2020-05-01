@@ -4,13 +4,15 @@
   "description": "test-project",
   "main": "snake.js",
   "scripts": {
+    "install": "",
     "build": "",
     "start": "http-server ./dist -p 80"
   },
   "dependencies": {
     "http-server": "0.12.3",
     "jexia-sdk-js": "4.10.0",
-    "node": "12.16.2"   
+    "node": "12.16.2",
+    "package.json": "^2.0.1"
   },
   "devDependencies": {},
   "repository": {

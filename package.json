@@ -1,0 +1,31 @@
+{
+  "name": "stormsnake",
+  "version": "1.0.0",
+  "description": "test-project",
+  "main": "snake.js",
+  "scripts": {
+    "build": "",
+    "start": "http-server ./dist -p 80"
+  },
+  "dependencies": {
+    "http-server": "0.12.3",
+    "jexia-sdk-js": "4.10.0",
+    "node": "12.16.2"   
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardoleo/stormsnake.git"
+  },
+  "keywords": [
+    "test",
+    "jexia",
+    "package.json"
+  ],
+  "author": "Leonardoleo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leonardoleo/stormsnake/issues"
+  },
+  "homepage": "https://github.com/Leonardoleo/stormsnake#readme"
+}

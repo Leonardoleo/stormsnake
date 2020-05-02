@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "http-server": "0.12.3",
-    "jexia-sdk-js": "4.10.0",
+    "jexia-sdk-js": "^4.10.0",
     "node": "12.16.2",
     "package.json": "^2.0.1"
   },

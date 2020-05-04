@@ -9,6 +9,8 @@
     "start": "http-server ./ -p 80"
   },
   "dependencies": {
+    "dataset": "^0.3.2",
+    "fileset": "^2.0.3",
     "http-server": "0.12.3",
     "jexia-sdk-js": "^4.10.0",
     "node": "12.16.2",
